@@ -29,5 +29,9 @@ public class Main {
         System.out.println(asus.getMarca());
         System.out.println(asus.getFabricante());
 
+        TarjetaGrafica grafica = new TarjetaGrafica();
+        grafica.setId(1);
+        grafica.setMarca("Nvidia");
+        grafica.setFabricante("nvidia geoforce 3060");
     }
 }
