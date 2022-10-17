@@ -19,19 +19,9 @@ public class Main {
         System.out.println(amd.getMarca());
         System.out.println(amd.getFabricante());
 
-        Procesador pentium = new Procesador();
-
-        pentium.setId(2);
-        pentium.setMarca("i7");
-        pentium.setFabricante("intel");
-
-        System.out.println(pentium.getId());
-        System.out.println(pentium.getMarca());
-        System.out.println(pentium.getFabricante());
-
         PlacaBase asus = new PlacaBase();
 
-        asus.setId(3);
+        asus.setId(2);
         asus.setMarca("B550-Plus");
         asus.setFabricante("asus");
 
