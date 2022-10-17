@@ -1,4 +1,4 @@
 package com.alvaro.pccomponentes;
 
-public class Torre {
+public class Tower {
 }
