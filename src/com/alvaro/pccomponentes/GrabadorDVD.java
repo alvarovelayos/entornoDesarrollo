@@ -11,7 +11,7 @@ public class GrabadorDVD {
     }
     public void setId(Integer id) {
 
-        this.id = id;
+        this.id = i;
     }
     public String getMarca() {
 
