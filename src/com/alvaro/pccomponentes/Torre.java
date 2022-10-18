@@ -1,6 +1,6 @@
 package com.alvaro.pccomponentes;
 
-public class Tower {
+public class Torre {
         private Integer id;
         private String marca;
         private String fabricante;
