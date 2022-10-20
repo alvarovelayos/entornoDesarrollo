@@ -134,9 +134,9 @@ public class Main {
     }
 
     ConfiguradorPC pc = new ConfiguradorPC();
-    pc.setId();
-    pc.setProcesador();
-    pc.setMotherBorard();
+    pc.setId("ASD10");
+    pc.setProcesador(amd);
+    pc.setMotherBorard(asus);
 
     System.out.println(pc.getId());
     System.out.println("Procesador: " + pc.getProcesador().getMarca());
