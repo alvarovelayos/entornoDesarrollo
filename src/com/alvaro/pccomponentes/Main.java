@@ -133,12 +133,12 @@ public class Main {
         System.out.println(speeker.getFabricante());
     }
 
-    ConfiguradorPC pc = new ConfiguradorPC();
+    /**ConfiguradorPC pc = new ConfiguradorPC();
     pc.setId("ASD10");
     pc.setProcesador(amd);
     pc.setMotherBorard(asus);
 
     System.out.println(pc.getId());
     System.out.println("Procesador: " + pc.getProcesador().getMarca());
-    System.out.println("Placa base: " + pc.getMotherboard().getName());
+    System.out.println("Placa base: " + pc.getMotherboard().getName());*/
 }

@@ -7,6 +7,7 @@ public class ConfiguradorPC {
     private PlacaBase placaBase;
 
     public void setId(String id) {
+
         this.id = id;
     }
 
