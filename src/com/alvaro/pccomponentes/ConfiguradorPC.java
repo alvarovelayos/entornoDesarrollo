@@ -18,7 +18,7 @@ public class ConfiguradorPC {
         return this.id;
     }
 
-    public Procesador getProcesado() {
+    public Procesador getProcesador() {
         return this.procesador;
     }
 }
