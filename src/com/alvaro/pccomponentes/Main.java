@@ -134,11 +134,11 @@ public class Main {
     }
 
     ConfiguradorPC pc = new ConfiguradorPC();
-    setupPc.setId()
-    setupoPC.setProcesador()
-    setup.setMotherBorard()
+    pc.setId();
+    pc.setProcesador();
+    pc.setMotherBorard();
 
-    System.out.println(setupPC.getId());
-    System.out.println("Procesador: " + setupPC.getProcesador().getMarca());
-    System.out.println("Placa base: " + setupPC.getMotherboard().getName());
+    System.out.println(pc.getId());
+    System.out.println("Procesador: " + pc.getProcesador().getMarca());
+    System.out.println("Placa base: " + pc.getMotherboard().getName());
 }
