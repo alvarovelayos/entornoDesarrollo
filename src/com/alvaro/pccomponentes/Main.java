@@ -132,4 +132,13 @@ public class Main {
         System.out.println(speeker.getMarca());
         System.out.println(speeker.getFabricante());
     }
+
+    ConfiguradorPC pc = new ConfiguradorPC();
+    setupPc.setId()
+    setupoPC.setProcesador()
+    setup.setMotherBorard()
+
+    System.out.println(setupPC.getId());
+    System.out.println("Procesador: " + setupPC.getProcesador().getMarca());
+    System.out.println("Placa base: " + setupPC.getMotherboard().getName());
 }
