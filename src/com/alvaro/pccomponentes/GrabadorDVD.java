@@ -1,7 +1,6 @@
 package com.alvaro.pccomponentes;
 
-public class TarjetaGrafica {
-
+public class GrabadorDVD {
     private Integer id;
     private String marca;
     private String fabricante;
@@ -10,17 +9,14 @@ public class TarjetaGrafica {
 
         return id;
     }
-
     public void setId(Integer id) {
 
         this.id = id;
     }
-
     public String getMarca() {
 
         return marca;
     }
-
     public void setMarca(String marca) {
 
         this.marca = marca;
@@ -29,9 +25,9 @@ public class TarjetaGrafica {
 
         return fabricante;
     }
-
     public void setFabricante(String fabricante) {
 
-        this.fabricante = fabricante;
+        this.fabricante= fabricante;
     }
+
 }

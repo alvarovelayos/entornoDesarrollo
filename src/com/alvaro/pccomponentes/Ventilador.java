@@ -1,6 +1,6 @@
 package com.alvaro.pccomponentes;
 
-public class Torre {
+public class Ventilador {
         private Integer id;
         private String marca;
         private String fabricante;

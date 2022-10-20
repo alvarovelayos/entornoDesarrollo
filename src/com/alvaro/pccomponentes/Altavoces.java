@@ -1,6 +1,6 @@
 package com.alvaro.pccomponentes;
 
-public class TarjetaGrafica {
+public class Altavoces {
 
     private Integer id;
     private String marca;

@@ -1,6 +1,6 @@
 package com.alvaro.pccomponentes;
 
-public class TarjetaGrafica {
+public class Raton {
 
     private Integer id;
     private String marca;

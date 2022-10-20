@@ -1,12 +1,11 @@
 package com.alvaro.pccomponentes;
 
-public class TarjetaGrafica {
-
+public class DiscoDuro {
     private Integer id;
     private String marca;
     private String fabricante;
 
-    public Integer getId() {
+    public Integer getId(){
 
         return id;
     }
@@ -20,17 +19,17 @@ public class TarjetaGrafica {
 
         return marca;
     }
-
-    public void setMarca(String marca) {
+    public void setMarca(String marca){
 
         this.marca = marca;
     }
+
     public String getFabricante() {
 
         return fabricante;
     }
-
-    public void setFabricante(String fabricante) {
+    public void setFabricante(String fabricante)
+    {
 
         this.fabricante = fabricante;
     }
